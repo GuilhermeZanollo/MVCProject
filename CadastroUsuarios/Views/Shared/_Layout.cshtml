@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Cadastro de usuários</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    @RenderSection("Estilos", false)
+</head>
+<body>
+    <div class="container body-content">
+        <h1>Cadastro de usuários</h1>
+        <h4>@RenderSection("Subtitulo")</h4>
+        @RenderBody()
+    </div>
+
+    <script src="~/Scripts/jquery-3.7.0.js"></script>
+    @RenderSection("Scripts", false)
+</body>
+</html>
