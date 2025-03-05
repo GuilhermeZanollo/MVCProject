@@ -7,7 +7,7 @@ using System.Web.Routing;
 
 namespace CadastroUsuarios
 {
-    public class RouteConfig
+    public class RouteConfig // ROTA INICIAL QUANDO INICIA A PAGINA
     {
         public static void RegisterRoutes(RouteCollection routes)
         {
@@ -16,7 +16,7 @@ namespace CadastroUsuarios
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
+                defaults: new { controller = "Usuario", action = "Index", id = UrlParameter.Optional }
             );
         }
     }
