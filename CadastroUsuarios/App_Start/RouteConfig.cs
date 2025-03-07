@@ -16,7 +16,7 @@ namespace CadastroUsuarios
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "Usuario", action = "Index", id = UrlParameter.Optional }
+                defaults: new { controller = "Usuario", action = "Listar", id = UrlParameter.Optional } // Pagina padrão que vai iniciar
             );
         }
     }

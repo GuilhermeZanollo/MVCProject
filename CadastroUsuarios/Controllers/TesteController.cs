@@ -6,7 +6,7 @@ using System.Web.Mvc;
 
 namespace CadastroUsuarios.Controllers
 {
-    public class Teste : Controller
+    public class TesteController : Controller
     {
         // GET: Teste
         public ActionResult Index()

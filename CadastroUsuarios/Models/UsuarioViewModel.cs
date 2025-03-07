@@ -13,7 +13,7 @@ namespace CadastroUsuarios.Models
 
         [Required] // Campo obrigatório
         [StringLength(100)] // Deve ter no máximo 100 caracteres
-        [Display(Name = "Nome do usuário: ")]
+        [Display(Name = "Nome do usuário:")]
         public string Nome { get; set; }
 
         [Required]

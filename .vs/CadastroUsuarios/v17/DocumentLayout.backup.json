@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Projetos\\MVC\\CadastroUsuarios\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C0C4526E-F90A-41AF-AEF3-842CB8129555}|CadastroUsuarios\\CadastroUsuarios.csproj|C:\\Projetos\\MVC\\CadastroUsuarios\\cadastrousuarios\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C4526E-F90A-41AF-AEF3-842CB8129555}|CadastroUsuarios\\CadastroUsuarios.csproj|solutionrelative:cadastrousuarios\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C4526E-F90A-41AF-AEF3-842CB8129555}|CadastroUsuarios\\CadastroUsuarios.csproj|c:\\projetos\\mvc\\cadastrousuarios\\cadastrousuarios\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0C4526E-F90A-41AF-AEF3-842CB8129555}|CadastroUsuarios\\CadastroUsuarios.csproj|solutionrelative:cadastrousuarios\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C0C4526E-F90A-41AF-AEF3-842CB8129555}|CadastroUsuarios\\CadastroUsuarios.csproj|c:\\projetos\\mvc\\cadastrousuarios\\cadastrousuarios\\views\\usuario\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C0C4526E-F90A-41AF-AEF3-842CB8129555}|CadastroUsuarios\\CadastroUsuarios.csproj|solutionrelative:cadastrousuarios\\views\\usuario\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,8 +19,8 @@
       "RelativeMoniker": "D:0:0:{C0C4526E-F90A-41AF-AEF3-842CB8129555}|CadastroUsuarios\\CadastroUsuarios.csproj|solutionrelative:cadastrousuarios\\models\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0C4526E-F90A-41AF-AEF3-842CB8129555}|CadastroUsuarios\\CadastroUsuarios.csproj|C:\\Projetos\\MVC\\CadastroUsuarios\\cadastrousuarios\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0C4526E-F90A-41AF-AEF3-842CB8129555}|CadastroUsuarios\\CadastroUsuarios.csproj|solutionrelative:cadastrousuarios\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0C4526E-F90A-41AF-AEF3-842CB8129555}|CadastroUsuarios\\CadastroUsuarios.csproj|c:\\projetos\\mvc\\cadastrousuarios\\cadastrousuarios\\scripts\\bootstrap.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C0C4526E-F90A-41AF-AEF3-842CB8129555}|CadastroUsuarios\\CadastroUsuarios.csproj|solutionrelative:cadastrousuarios\\scripts\\bootstrap.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Cadastrar.cshtml",
-              "DocumentMoniker": "C:\\Projetos\\MVC\\CadastroUsuarios\\CadastroUsuarios\\Views\\Usuario\\Cadastrar.cshtml",
-              "RelativeDocumentMoniker": "CadastroUsuarios\\Views\\Usuario\\Cadastrar.cshtml",
-              "ToolTip": "C:\\Projetos\\MVC\\CadastroUsuarios\\CadastroUsuarios\\Views\\Usuario\\Cadastrar.cshtml",
-              "RelativeToolTip": "CadastroUsuarios\\Views\\Usuario\\Cadastrar.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAEUAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-05T16:04:59.912Z",
+              "DocumentIndex": 4,
+              "Title": "bootstrap.min.js",
+              "DocumentMoniker": "C:\\Projetos\\MVC\\CadastroUsuarios\\CadastroUsuarios\\Scripts\\bootstrap.min.js",
+              "RelativeDocumentMoniker": "CadastroUsuarios\\Scripts\\bootstrap.min.js",
+              "ToolTip": "C:\\Projetos\\MVC\\CadastroUsuarios\\CadastroUsuarios\\Scripts\\bootstrap.min.js",
+              "RelativeToolTip": "CadastroUsuarios\\Scripts\\bootstrap.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-07T16:34:28.254Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Cadastrar.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\MVC\\CadastroUsuarios\\CadastroUsuarios\\Views\\Usuario\\Cadastrar.cshtml",
+              "RelativeDocumentMoniker": "CadastroUsuarios\\Views\\Usuario\\Cadastrar.cshtml",
+              "ToolTip": "C:\\Projetos\\MVC\\CadastroUsuarios\\CadastroUsuarios\\Views\\Usuario\\Cadastrar.cshtml",
+              "RelativeToolTip": "CadastroUsuarios\\Views\\Usuario\\Cadastrar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-07T16:21:20.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\MVC\\CadastroUsuarios\\CadastroUsuarios\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CadastroUsuarios\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projetos\\MVC\\CadastroUsuarios\\CadastroUsuarios\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CadastroUsuarios\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T12:45:44.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Projetos\\MVC\\CadastroUsuarios\\CadastroUsuarios\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "CadastroUsuarios\\Controllers\\UsuarioController.cs",
               "ToolTip": "C:\\Projetos\\MVC\\CadastroUsuarios\\CadastroUsuarios\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "CadastroUsuarios\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB8AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T16:04:56.701Z"
+              "WhenOpened": "2025-03-05T16:04:56.701Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UsuarioViewModel.cs",
               "DocumentMoniker": "C:\\Projetos\\MVC\\CadastroUsuarios\\CadastroUsuarios\\Models\\UsuarioViewModel.cs",
               "RelativeDocumentMoniker": "CadastroUsuarios\\Models\\UsuarioViewModel.cs",
               "ToolTip": "C:\\Projetos\\MVC\\CadastroUsuarios\\CadastroUsuarios\\Models\\UsuarioViewModel.cs",
               "RelativeToolTip": "CadastroUsuarios\\Models\\UsuarioViewModel.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T16:04:56.01Z"
+              "WhenOpened": "2025-03-05T16:04:56.01Z",
+              "EditorCaption": ""
             }
           ]
         }

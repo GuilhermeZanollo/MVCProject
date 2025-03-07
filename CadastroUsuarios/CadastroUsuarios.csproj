@@ -134,7 +134,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\UsuarioController.cs" />
-    <Compile Include="Controllers\Teste.cs" />
+    <Compile Include="Controllers\TesteController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -191,7 +191,7 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
-    <Content Include="Views\Usuario\Index.cshtml" />
+    <Content Include="Views\Usuario\Listar.cshtml" />
     <Content Include="Views\Usuario\Cadastrar.cshtml" />
     <Content Include="Views\Shared\Partials\_ListaObservacao.cshtml" />
     <Content Include="Views\Teste\Index.cshtml" />

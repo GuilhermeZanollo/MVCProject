@@ -1,0 +1,48 @@
+﻿@using CadastroUsuarios.Models
+@model IEnumerable<UsuarioViewModel>
+<!--Especifica que Model será um IEnumerable<UsuarioViewModel>, ou seja, uma coleção de UsuarioViewModel (como uma List<UsuarioViewModel>).-->
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Subtitulo{
+    Listagem
+}
+
+@if (Model.Any())
+{
+    <div>
+        <table class="table table-striped table-bordered">
+            <thead>
+                <tr>
+                    <th scope="col">Nome</th>
+                    <th scope="col">Sobrenome</th>
+                    <th scope="col">Nome social</th>
+                    <th scope="col">Data de nascimento</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var usuario in Model)
+                {
+                    <tr>
+                        <td>@usuario.Nome</td>
+                        <td>@usuario.Sobrenome</td>
+                        <td>@usuario.NomeSocial</td>
+                        <td>@usuario.DataNascimento.ToString("dd/MM/yyyy")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+else
+{
+    <div>
+        @Html.Label("Nenhum usuário cadastrado", new { @classe = "form-label" });
+    </div>
+}
+
+@Html.Partial("Partials/_ListaObservacao")
+
+<a href="@Url.Action("Cadastrar", "Usuario")" class="btn btn-primary">Cadastrar</a>
